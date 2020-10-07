@@ -1,0 +1,25 @@
+{
+  "name": "Ukkonen_express_intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    ,
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inBetweenDreams08/Ukkonen_express_intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inBetweenDreams08/Ukkonen_express_intro/issues"
+  },
+  "homepage": "https://github.com/inBetweenDreams08/Ukkonen_express_intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
